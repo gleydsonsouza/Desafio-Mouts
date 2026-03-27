@@ -2,5 +2,6 @@ export const loginSelectors = {
     emailInput: '[data-testid="email"]',
     passwordInput: '[data-testid="senha"]',
     loginButton: '[data-testid="entrar"]',
-    regsterButon: '[data-testid="cadastrar"]'
+    registerButon: '[data-testid="cadastrar"]',
+    title: 'h1'
 }
